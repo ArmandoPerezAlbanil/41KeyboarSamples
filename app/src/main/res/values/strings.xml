@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">4.1KeyboardSamples</string>
+    <string name="Mostrar">Mostrar</string>
+    <string name="Ingresar">Ingresa un mensaje</string>
+    <string name="Contraseña">Ingresa su contraseña</string>
+    <string name="Correo">Ingresa una direccion de correo electronico</string>
+    <string name="Numero">Ingresa un numero de telefono</string>
+</resources>
